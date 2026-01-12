@@ -1,6 +1,5 @@
 
 import java.util.Scanner;
-
 public class Pattern {
     public static void TrianglePattern(int n){
         for(int i=1;i<=n;i++){
